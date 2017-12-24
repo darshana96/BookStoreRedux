@@ -1,0 +1,22 @@
+.image_1{
+    width: 176px;
+    height: 200px;
+    float:left;
+}
+.description{
+    padding: 7px 0px 10px 0;
+    font-weight: bold;
+    /*width: 50%;*/
+}
+.left_div{
+    float: left;
+    margin-top: 22px;
+    margin-left: 28px;
+}
+.description_div{
+    display: inline-flex;
+    width: 200px;
+}
+.span{
+    padding: 7px 0px 10px 0;
+}
